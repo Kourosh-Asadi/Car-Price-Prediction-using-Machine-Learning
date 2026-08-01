@@ -1,6 +1,9 @@
 # 🚗 Bama Car Price Prediction using Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-43B02A)](https://www.crummy.com/software/BeautifulSoup/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+
 
 A complete end-to-end Machine Learning project for predicting used car prices in Iran using data collected from **Bama.ir**.
 
