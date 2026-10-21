@@ -31,8 +31,8 @@ The dataset was collected directly from **Bama.ir** using Python.
 
 ### Dataset Statistics
 
-- **28,000+ advertisements scraped**
-- **18,000+ cleaned records**
+- **51,000+ advertisements scraped**
+- **35,000+ cleaned records**
 - Duplicate advertisements removed
 - Negotiable prices removed
 - Invalid prices filtered
@@ -72,11 +72,11 @@ The following regression algorithms were implemented and compared.
 
 | Model | R² Score |
 |--------|---------:|
-| Linear Regression | 0.73 |
-| Decision Tree | 0.80 |
+| Linear Regression | 0.76 |
+| Decision Tree | 0.82 |
 | Gradient Boosting | 0.80 |
 | CatBoost | 0.84 |
-| Random Forest | **0.86** |
+| Random Forest | **0.87** |
 
 Random Forest achieved the best performance on the test dataset.
 
