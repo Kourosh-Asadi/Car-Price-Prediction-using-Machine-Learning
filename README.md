@@ -116,13 +116,6 @@ Clone the repository
 ```bash
 git clone https://github.com/yourusername/bama-car-price-prediction.git
 ```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 Run the notebooks in order.
 
 ---
