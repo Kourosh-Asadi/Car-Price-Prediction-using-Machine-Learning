@@ -56,7 +56,6 @@ The dataset was collected directly from **Bama.ir** using Python.
 
 - Python
 - Requests
-- BeautifulSoup
 - Pandas
 - NumPy
 - Scikit-learn
